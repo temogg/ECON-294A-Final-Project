@@ -1,7 +1,9 @@
 # ECON-294A-Final-Project
-Final Project for Professor Pedro's Python class. 
+Hi Pedro,
 
-Faced with the challenge of my original proposition, I refocused my study on the relationship between unemployment rates and crime in five major U.S. states (California, Texas, New York, Florida, Illinois) and the national average. This analysis examines the relationship between unemployment rates and both violent and property crime rates from 2000 to 2020. Unemployment rates are the key independent variable, with median household income and poverty rates included as control variables.
+Hi Pedro,
+
+I quickly realized how daunting my original proposal was, so I decided to break it down into smaller chunks and compare unemployment rates to crime rates. I refocused my study on the relationship between unemployment rates and crime in five major U.S. states (California, Texas, New York, Florida, Illinois) and the national average. This analysis examines the relationship between unemployment rates and both violent and property crime rates from 2000 to 2020. Unemployment rates are the key independent variable, with median household income and poverty rates included as control variables.
 
 Data for unemployment, crime rates, median household incomes, and poverty rates were compiled and merged on the 'DATE' column. Crime data were sourced from the FBI, while economic data came from the Federal Reserve of St. Louis (FRED). Multiple regression analyses were conducted using "StatsModels" in Python, with separate models for violent and property crime rates in each state and the national average.
 
